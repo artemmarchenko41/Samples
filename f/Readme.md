@@ -2,4 +2,4 @@
 for test
 
 
-![](sample.gif)
+![](../sample.gif)
