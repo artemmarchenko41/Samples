@@ -1,5 +1,2 @@
-# test
-for test
+# Android samples
 
-
-![](sample.gif)
